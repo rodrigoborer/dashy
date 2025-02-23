@@ -183,6 +183,13 @@
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/markusdd">
+            <img src="https://avatars.githubusercontent.com/u/25175069?v=4" width="80;" alt="markusdd"/>
+            <br />
+            <sub><b>Markus Krause</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/miclav">
             <img src="https://avatars.githubusercontent.com/u/11891522?v=4" width="80;" alt="miclav"/>
             <br />
@@ -208,13 +215,6 @@
             <img src="https://avatars.githubusercontent.com/u/42270947?v=4" width="80;" alt="rubjo"/>
             <br />
             <sub><b>Rubjo</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/turnrye">
-            <img src="https://avatars.githubusercontent.com/u/701035?v=4" width="80;" alt="turnrye"/>
-            <br />
-            <sub><b>Ryan Turner</b></sub>
         </a>
     </td></tr>
 </table>
